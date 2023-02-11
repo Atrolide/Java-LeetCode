@@ -4,7 +4,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 
 ## Solutions
 
-The solutions can be found in the [Solutions](LeetCode/src/main/java/org/exercises/Solutions/) folder.
+The solutions can be found in the [Solutions](./src/main/java/org/exercises/Solutions/) folder.
 
 ## Tests
 
