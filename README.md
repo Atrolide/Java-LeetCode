@@ -8,7 +8,7 @@ The solutions can be found in the [Solutions](./src/main/java/org/exercises/Solu
 
 ## Tests
 
-The JUnit tests for each solution can be found in the [Tests](./Tests) folder. These tests verify that each solution works correctly.
+The JUnit tests for each solution can be found in the [Tests](./src/test/java/org/exercises/Tests/) folder. These tests verify that each solution works correctly.
 
 ## Contributions
 
