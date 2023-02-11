@@ -4,11 +4,11 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 
 ## Solutions
 
-The solutions can be found in the [Solutions](./Solutions) folder. Each solution is in its own subfolder, named after the LeetCode problem it solves.
+The solutions can be found in the [Solutions](./Solutions) folder.
 
 ## Tests
 
-The JUnit tests for each solution can be found in the [Tests](./Tests) folder. These tests verify that each solution works correctly for a variety of inputs.
+The JUnit tests for each solution can be found in the [Tests](./Tests) folder. These tests verify that each solution works correctly.
 
 ## Contributions
 
