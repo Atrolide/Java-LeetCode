@@ -6,7 +6,7 @@ package org.exercises.Solutions;
  * return indices of the two numbers such that they add up to target.
  */
 
-// TODO: Optimize Runtime and Memory usage
+//TODO: Optimize Runtime and Memory usage
 
 
 public class Ex1 {
