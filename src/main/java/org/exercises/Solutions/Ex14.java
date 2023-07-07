@@ -4,6 +4,7 @@ package org.exercises.Solutions;
  * "Longest Common Prefix"
  * https://leetcode.com/problems/longest-common-prefix/
  */
+
 public class Ex14 {
     public static String longestCommonPrefix(String[] strs) {
         String prefix = strs[0];
