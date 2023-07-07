@@ -1,15 +1,19 @@
 # LeetCode Exercises
 
-This repository contains my solutions to various [LeetCode](https://leetcode.com) coding challenges, along with JUnit tests to verify their correctness.
+This repository contains my solutions to various [LeetCode](https://leetcode.com) coding challenges using Java along with JUnit tests to verify their correctness.
 
-## Solutions
+## Solutions and Tests
 
-The solutions can be found in the [Solutions](./src/main/java/org/exercises/Solutions/) folder.
-
-## Tests
-
-The JUnit tests for each solution can be found in the [Tests](./src/test/java/org/exercises/Tests/) folder. These tests verify that each solution works correctly.
+| Exercise | **Solutions** | **Tests** | **Links** |
+|----------|---------------|-----------|-----------|
+|1| [Two Sum](./src/main/java/org/exercises/Solutions/Ex1.java)| [Two Sum Test](./src/test/java/org/exercises/Tests/Ex1Test.java) | [LeetCode Link](https://leetcode.com/problems/two-sum/) |
+|9| [Palindrome Number](./src/main/java/org/exercises/Solutions/Ex9.java) | [Palindrome Number Test](./src/test/java/org/exercises/Tests/Ex9Test.java) | [LeetCode Link](https://leetcode.com/problems/palindrome-number/) |
+|12| [Integer to Roman](./src/main/java/org/exercises/Solutions/Ex12.java) | [Integer to Roman Test](./src/test/java/org/exercises/Tests/Ex12Test.java) | [LeetCode Link](https://leetcode.com/problems/integer-to-roman/) |
+|13| [Roman to Integer](./src/main/java/org/exercises/Solutions/Ex13.java) | [Roman to Integer Test](./src/test/java/org/exercises/Tests/Ex13Test.java) | [LeetCode Link](https://leetcode.com/problems/roman-to-integer/) |
+|14| [Longest Common Prefix](./src/main/java/org/exercises/Solutions/Ex14.java) | [Longest Common Prefix Test](./src/test/java/org/exercises/Tests/Ex14Test.java) | [LeetCode Link](https://leetcode.com/problems/longest-common-prefix/) |
+|20| [Valid Parentheses](./src/main/java/org/exercises/Solutions/Ex20.java) | [Valid Parentheses Test](./src/test/java/org/exercises/Tests/Ex20Test.java) | [LeetCode Link](https://leetcode.com/problems/valid-parentheses/) |
 
 ## Contributions
 
 If you find any bugs or have any suggestions for improvements, feel free to open an issue or a pull request. Your input is always appreciated!
+ł
