@@ -12,7 +12,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 |13| [Roman to Integer](./src/main/java/org/exercises/Solutions/Ex13.java)                    | [Roman to Integer Test](./src/test/java/org/exercises/Tests/Ex13Test.java)                    | [LeetCode Link](https://leetcode.com/problems/roman-to-integer/) |
 |14| [Longest Common Prefix](./src/main/java/org/exercises/Solutions/Ex14.java)               | [Longest Common Prefix Test](./src/test/java/org/exercises/Tests/Ex14Test.java)               | [LeetCode Link](https://leetcode.com/problems/longest-common-prefix/) |
 |20| [Valid Parentheses](./src/main/java/org/exercises/Solutions/Ex20.java)                   | [Valid Parentheses Test](./src/test/java/org/exercises/Tests/Ex20Test.java)                   | [LeetCode Link](https://leetcode.com/problems/valid-parentheses/) |
-|20| [Remove Duplicates from Sorted Array](./src/main/java/org/exercises/Solutions/Ex26.java) | [Remove Duplicates from Sorted Array Test](./src/test/java/org/exercises/Tests/Ex26Test.java) | [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+|26| [Remove Duplicates from Sorted Array](./src/main/java/org/exercises/Solutions/Ex26.java) | [Remove Duplicates from Sorted Array Test](./src/test/java/org/exercises/Tests/Ex26Test.java) | [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ## Contributions
 
