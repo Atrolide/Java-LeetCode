@@ -16,4 +16,3 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Contributions
 
 If you find any bugs or have any suggestions for improvements, feel free to open an issue or a pull request. Your input is always appreciated!
-ł
