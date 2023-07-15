@@ -14,7 +14,8 @@ with JUnit tests to verify their correctness.
 | 14       | [Longest Common Prefix](./src/main/java/org/exercises/Solutions/Ex14.java)               | [Longest Common Prefix Test](./src/test/java/org/exercises/Tests/Ex14Test.java)               | [LeetCode Link](https://leetcode.com/problems/longest-common-prefix/) |
 | 20       | [Valid Parentheses](./src/main/java/org/exercises/Solutions/Ex20.java)                   | [Valid Parentheses Test](./src/test/java/org/exercises/Tests/Ex20Test.java)                   | [LeetCode Link](https://leetcode.com/problems/valid-parentheses/) |
 | 26       | [Remove Duplicates from Sorted Array](./src/main/java/org/exercises/Solutions/Ex26.java) | [Remove Duplicates from Sorted Array Test](./src/test/java/org/exercises/Tests/Ex26Test.java) | [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 88        | [Merge Sorted Array](./src/main/java/org/exercises/Solutions/Ex88.java)                  | [Merge Sorted Array Test](./src/test/java/org/exercises/Tests/Ex88Test.java) | [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/) |
+| 27       | [Remove Element](./src/main/java/org/exercises/Solutions/Ex27.java)                      | [Remove Element Test](./src/test/java/org/exercises/Tests/Ex27Test.java)                      | [LeetCode Link](https://leetcode.com/problems/remove-element/) |
+| 88       | [Merge Sorted Array](./src/main/java/org/exercises/Solutions/Ex88.java)                  | [Merge Sorted Array Test](./src/test/java/org/exercises/Tests/Ex88Test.java)                  | [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/) |
 
 ## Contributions
 
