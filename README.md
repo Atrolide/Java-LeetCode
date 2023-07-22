@@ -18,6 +18,7 @@ with JUnit tests to verify their correctness.
 | 88       | [Merge Sorted Array](./src/main/java/org/exercises/Solutions/Ex88.java)                  | [Merge Sorted Array Test](./src/test/java/org/exercises/Tests/Ex88Test.java)                  | [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/)                  |
 | 135      | [Candy](./src/main/java/org/exercises/Solutions/Ex135.java)                              | [Candy Test](./src/test/java/org/exercises/Tests/Ex135Test.java)                              | [LeetCode Link](https://leetcode.com/problems/candy/)                               |
 | 169      | [Majority Element](./src/main/java/org/exercises/Solutions/Ex169.java)                   | [Majority Element Test](./src/test/java/org/exercises/Tests/Ex169Test.java)                   | [LeetCode Link](https://leetcode.com/problems/majority-element/)                    |
+| 189      | [Rotate Array](./src/main/java/org/exercises/Solutions/Ex189.java)                       | [Rotate Array Test](./src/test/java/org/exercises/Tests/Ex189Test.java)                       | [LeetCode Link](https://leetcode.com/problems/rotate-array/)                        |
 
 ## Contributions
 
